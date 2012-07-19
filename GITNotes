@@ -1,0 +1,5 @@
+enable color:
+
+$ git config --global --add color.ui true
+
+
